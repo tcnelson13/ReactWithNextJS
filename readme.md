@@ -1,5 +1,10 @@
 // Step 1 allows for our development REST endpoints called w/axios
-To see the data hosted and hit the port http://localhost:4000
+To see the data hosted and hit the port
+http://localhost:4000
+http://localhost:4000/speakers
+http://localhost:4000/speakers/1530
+http://localhost:4000/sessions
+
 npm run json-server
 
 // Step 2
